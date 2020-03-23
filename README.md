@@ -22,7 +22,8 @@
 ```css
 
 body{
-  background(blud)
+   margin: 0;
+   padding: 0;
 }
 
 ```
